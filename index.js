@@ -1,6 +1,6 @@
 const http = require('http')
 
-// Only port 1337 is exposed to the browser on the right
+// NOTE: YOU HAVE TO RUN THE SERVER ON PORT 1337 ONLY. OTHERWISE THE OUTPUT ON RIGHT WILL NOT WORK
 const port = process.env.PUBLIC_PORT || 1337
 
 const server = http.createServer((req, res) => {
