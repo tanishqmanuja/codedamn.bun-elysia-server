@@ -1,3 +1,2 @@
 tabs: ['index.js']
-terminal-one: node index.js
 run-button: node $$file
