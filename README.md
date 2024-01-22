@@ -1,15 +1,7 @@
-# Elysia with Bun runtime
+## TASK
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+Create a route with the following specs:
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
+- `GET /health`
 
-Open http://localhost:3000/ with your browser to see the result.
+  which returns a 200 status code with JSON body { ok: true } when the service is healthy.
