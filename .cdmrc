@@ -1,4 +1,4 @@
 playground-view: terminal-editor
 run-button: "bun run dev"
 tabs: ["README.md"]
-terminals: ['echo "We''re ready"']
+terminals: ["bun install"]
