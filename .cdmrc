@@ -1,3 +1,4 @@
-tabs: ["README.md"]
+playground-view: terminal-editor-browser
 run-button: "bun run dev"
-terminals: [""]
+tabs: ["README.md"]
+terminals: ['echo "We''re ready"']

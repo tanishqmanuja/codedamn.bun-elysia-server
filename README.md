@@ -1,10 +1,15 @@
-# Bun Elysia Server
+# Elysia with Bun runtime
 
-### Creating an Elysia App
-
+## Getting Started
+To get started with this template, simply paste this command into your terminal:
 ```bash
-bun create elysia .
+bun create elysia ./elysia-example
 ```
 
-The dot '.' at the end is important
-as it tells Bun to create the app in the current directory.
+## Development
+To start the development server run:
+```bash
+bun run dev
+```
+
+Open http://localhost:3000/ with your browser to see the result.
