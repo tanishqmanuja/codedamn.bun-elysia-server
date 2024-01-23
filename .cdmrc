@@ -1,4 +1,4 @@
 playground-view: terminal-editor
 run-button: "bun run dev"
-tabs: ["README.md"]
+tabs: ["README.md", "src/index.ts"]
 terminals: ["bun install"]
